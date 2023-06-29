@@ -541,10 +541,6 @@ border-radius: inherit;
 z-index: -1;
 }
 
-.service-item: hover {
- color: yellow;
-}
-
 .service-icon-box { margin-bottom: 10px; }
 
 .service-icon-box img { margin: auto; }
