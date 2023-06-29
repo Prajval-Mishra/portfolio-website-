@@ -541,7 +541,7 @@ border-radius: inherit;
 z-index: -1;
 }
 
-.service-item:hover::after {
+.service-item: hover {
  color: yellow;
 }
 
